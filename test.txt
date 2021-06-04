@@ -8,14 +8,12 @@
 正在写功能中
 正在写功能中
 
-<<<<<<< Updated upstream
 
 
 修复bug 修复bug
 修复bug 修复bug
 修复bug 修复bug
 修复bug 修复bug
-=======
+
 正在dev分支中开发新功能
 // TODO TODO
->>>>>>> Stashed changes
